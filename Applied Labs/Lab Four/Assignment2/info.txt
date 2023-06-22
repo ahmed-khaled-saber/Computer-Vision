@@ -1,0 +1,19 @@
+Ahmed Khaled Saber Abdel Hady 
+أحمد خالد صابر عبدالهادي
+
+2018170512
+
+[BEFORE ANY Run]
+Some Issues I ran Into::-
+
+* 
+Relative File Paths such 
+            images = os.listdir('assignment data')
+            path   = 'assignment data'
+INSTEAD, what worked with me is
+            images = os.listdir('Lab Four/Assignment2/assignment data')
+            path   = 'Lab Four/Assignment2/assignment data' 
+
+*
+All Drawing Functionality I have troubles within because Missing qt5, and I tried hard to solve it but i FAIL,
+so Please Fine Tune The Setting Required on YOUR DEVICE before Run, and consider the Logic I worked on.
